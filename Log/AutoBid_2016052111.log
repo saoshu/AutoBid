@@ -1,0 +1,230 @@
+2016-05-21 11:00:51,144 INFO ======================================== AutoBid.py
+2016-05-21 11:00:51,144 INFO =======         START BID         ====== AutoBid.py
+2016-05-21 11:00:51,144 INFO ======================================== AutoBid.py
+2016-05-21 11:00:51,144 DEBUG Screen resolution is 1280 x 800 ScreenResolver.py
+2016-05-21 11:00:51,144 DEBUG Using pre-defined settings ScreenResolver.py
+2016-05-21 11:01:09,359 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:01:21,388 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:01:21,388 DEBUG Click at position (863, 385) ScreenResolver.py
+2016-05-21 11:01:21,404 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:01:21,404 DEBUG Click at position (998, 489) ScreenResolver.py
+2016-05-21 11:01:21,404 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:01:34,388 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:01:34,388 DEBUG Click at position (864, 487) ScreenResolver.py
+2016-05-21 11:01:34,404 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:01:36,263 DEBUG Submitting price to bid server BidStrategy.py
+2016-05-21 11:01:36,263 DEBUG Click on ok button ScreenResolver.py
+2016-05-21 11:01:36,263 DEBUG Click at position (740, 556) ScreenResolver.py
+2016-05-21 11:01:36,263 DEBUG Click on error button ScreenResolver.py
+2016-05-21 11:01:36,263 DEBUG Click at position (834, 546) ScreenResolver.py
+2016-05-21 11:01:36,279 DEBUG Click on ok_after_bid button ScreenResolver.py
+2016-05-21 11:01:36,279 DEBUG Click at position (950, 540) ScreenResolver.py
+2016-05-21 11:01:38,154 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:01:40,013 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:01:40,013 DEBUG Click at position (863, 385) ScreenResolver.py
+2016-05-21 11:01:40,013 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:01:40,013 DEBUG Click at position (998, 489) ScreenResolver.py
+2016-05-21 11:01:40,013 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:12:44,611 INFO ======================================== AutoBid.py
+2016-05-21 11:12:44,611 INFO =======         START BID         ====== AutoBid.py
+2016-05-21 11:12:44,611 INFO ======================================== AutoBid.py
+2016-05-21 11:12:44,611 DEBUG Screen resolution is 1280 x 800 ScreenResolver.py
+2016-05-21 11:12:44,611 DEBUG Using pre-defined settings ScreenResolver.py
+2016-05-21 11:12:59,615 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:13:01,098 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:13:01,098 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:13:01,098 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:13:01,098 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:13:01,115 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:13:15,881 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:13:15,881 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:13:16,338 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:13:18,371 DEBUG Submitting price to bid server BidStrategy.py
+2016-05-21 11:13:18,371 DEBUG Click on ok button ScreenResolver.py
+2016-05-21 11:13:18,371 DEBUG Click at position (740, 556) ScreenResolver.py
+2016-05-21 11:13:18,371 DEBUG Click on error button ScreenResolver.py
+2016-05-21 11:13:18,371 DEBUG Click at position (834, 546) ScreenResolver.py
+2016-05-21 11:13:18,371 DEBUG Click on ok_after_bid button ScreenResolver.py
+2016-05-21 11:13:18,371 DEBUG Click at position (828, 539) ScreenResolver.py
+2016-05-21 11:13:40,480 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:13:41,760 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:13:41,760 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:13:41,760 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:13:41,760 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:13:41,760 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:13:45,401 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:13:45,401 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:13:45,838 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:13:47,368 DEBUG Submitting price to bid server BidStrategy.py
+2016-05-21 11:13:47,368 DEBUG Click on ok button ScreenResolver.py
+2016-05-21 11:13:47,368 DEBUG Click at position (740, 556) ScreenResolver.py
+2016-05-21 11:13:47,368 DEBUG Click on error button ScreenResolver.py
+2016-05-21 11:13:47,368 DEBUG Click at position (834, 546) ScreenResolver.py
+2016-05-21 11:13:47,368 DEBUG Click on ok_after_bid button ScreenResolver.py
+2016-05-21 11:13:47,368 DEBUG Click at position (828, 539) ScreenResolver.py
+2016-05-21 11:13:58,479 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:14:01,572 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:14:01,572 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:14:01,572 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:14:01,572 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:14:01,572 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:14:07,306 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:14:07,306 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:14:07,759 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:16:39,075 DEBUG Cancelling current price BidStrategy.py
+2016-05-21 11:16:39,075 DEBUG Click on cancel button ScreenResolver.py
+2016-05-21 11:16:39,075 DEBUG Click at position (961, 556) ScreenResolver.py
+2016-05-21 11:16:49,592 INFO ======================================== AutoBid.py
+2016-05-21 11:16:49,592 INFO =======         START BID         ====== AutoBid.py
+2016-05-21 11:16:49,592 INFO ======================================== AutoBid.py
+2016-05-21 11:16:49,592 DEBUG Screen resolution is 1280 x 800 ScreenResolver.py
+2016-05-21 11:16:49,592 DEBUG Using pre-defined settings ScreenResolver.py
+2016-05-21 11:16:59,033 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:17:02,987 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:17:02,987 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:17:02,987 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:17:02,987 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:17:02,987 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:17:13,283 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:17:13,283 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:17:20,065 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:17:22,346 DEBUG Cancelling current price BidStrategy.py
+2016-05-21 11:17:22,346 DEBUG Click on cancel button ScreenResolver.py
+2016-05-21 11:17:22,346 DEBUG Click at position (961, 556) ScreenResolver.py
+2016-05-21 11:17:56,490 INFO ======================================== AutoBid.py
+2016-05-21 11:17:56,490 INFO =======         START BID         ====== AutoBid.py
+2016-05-21 11:17:56,490 INFO ======================================== AutoBid.py
+2016-05-21 11:17:56,490 DEBUG Screen resolution is 1280 x 800 ScreenResolver.py
+2016-05-21 11:17:56,490 DEBUG Using pre-defined settings ScreenResolver.py
+2016-05-21 11:17:59,474 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:18:00,865 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:18:00,865 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:18:00,881 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:18:00,881 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:18:00,881 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:18:07,068 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:18:07,068 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:18:12,520 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:18:28,319 DEBUG Cancelling current price BidStrategy.py
+2016-05-21 11:18:28,319 DEBUG Click on cancel button ScreenResolver.py
+2016-05-21 11:18:28,319 DEBUG Click at position (961, 556) ScreenResolver.py
+2016-05-21 11:19:15,766 INFO ======================================== AutoBid.py
+2016-05-21 11:19:15,766 INFO =======         START BID         ====== AutoBid.py
+2016-05-21 11:19:15,766 INFO ======================================== AutoBid.py
+2016-05-21 11:19:15,766 DEBUG Screen resolution is 1280 x 800 ScreenResolver.py
+2016-05-21 11:19:15,766 DEBUG Using pre-defined settings ScreenResolver.py
+2016-05-21 11:19:18,924 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:19:20,720 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:19:20,720 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:19:20,720 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:19:20,720 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:19:20,720 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:19:27,174 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:19:27,174 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:19:27,188 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:19:32,520 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:19:35,802 DEBUG Cancelling current price BidStrategy.py
+2016-05-21 11:19:35,802 DEBUG Click on cancel button ScreenResolver.py
+2016-05-21 11:19:35,802 DEBUG Click at position (961, 556) ScreenResolver.py
+2016-05-21 11:19:51,996 INFO ======================================== AutoBid.py
+2016-05-21 11:19:51,996 INFO =======         START BID         ====== AutoBid.py
+2016-05-21 11:19:51,996 INFO ======================================== AutoBid.py
+2016-05-21 11:19:51,996 DEBUG Screen resolution is 1280 x 800 ScreenResolver.py
+2016-05-21 11:19:51,996 DEBUG Using pre-defined settings ScreenResolver.py
+2016-05-21 11:19:54,246 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:19:55,746 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:19:55,746 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:19:55,763 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:19:55,763 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:19:55,763 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:19:59,996 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:19:59,996 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:19:59,996 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:20:05,466 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:24:09,992 DEBUG Cancelling current price BidStrategy.py
+2016-05-21 11:24:09,992 DEBUG Click on cancel button ScreenResolver.py
+2016-05-21 11:24:09,992 DEBUG Click at position (961, 556) ScreenResolver.py
+2016-05-21 11:24:12,622 INFO ======================================== AutoBid.py
+2016-05-21 11:24:12,622 INFO =======         START BID         ====== AutoBid.py
+2016-05-21 11:24:12,622 INFO ======================================== AutoBid.py
+2016-05-21 11:24:12,622 DEBUG Screen resolution is 1280 x 800 ScreenResolver.py
+2016-05-21 11:24:12,622 DEBUG Using pre-defined settings ScreenResolver.py
+2016-05-21 11:24:14,388 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:24:15,482 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:24:15,482 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:24:15,497 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:24:15,497 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:24:15,497 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:24:23,315 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:25:46,168 INFO ======================================== AutoBid.py
+2016-05-21 11:25:46,168 INFO =======         START BID         ====== AutoBid.py
+2016-05-21 11:25:46,168 INFO ======================================== AutoBid.py
+2016-05-21 11:25:46,168 DEBUG Screen resolution is 1280 x 800 ScreenResolver.py
+2016-05-21 11:25:46,168 DEBUG Using pre-defined settings ScreenResolver.py
+2016-05-21 11:25:47,516 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:25:48,782 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:25:48,782 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:25:48,782 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:25:48,782 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:25:48,782 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:25:53,250 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:25:53,250 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:25:58,713 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:27:48,334 DEBUG Submitting price to bid server BidStrategy.py
+2016-05-21 11:27:48,334 DEBUG Click on ok button ScreenResolver.py
+2016-05-21 11:27:48,334 DEBUG Click at position (740, 556) ScreenResolver.py
+2016-05-21 11:27:48,334 DEBUG Click on error button ScreenResolver.py
+2016-05-21 11:27:48,334 DEBUG Click at position (834, 546) ScreenResolver.py
+2016-05-21 11:27:48,349 DEBUG Click on ok_after_bid button ScreenResolver.py
+2016-05-21 11:27:48,349 DEBUG Click at position (828, 539) ScreenResolver.py
+2016-05-21 11:27:50,069 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:27:51,538 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:27:51,538 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:27:51,538 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:27:51,538 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:27:51,538 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:27:58,756 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:27:58,756 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:28:04,200 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:28:46,309 DEBUG Cancelling current price BidStrategy.py
+2016-05-21 11:28:46,309 DEBUG Click on cancel button ScreenResolver.py
+2016-05-21 11:28:46,309 DEBUG Click at position (961, 556) ScreenResolver.py
+2016-05-21 11:28:56,888 INFO ======================================== AutoBid.py
+2016-05-21 11:28:56,888 INFO =======         START BID         ====== AutoBid.py
+2016-05-21 11:28:56,888 INFO ======================================== AutoBid.py
+2016-05-21 11:28:56,888 DEBUG Screen resolution is 1280 x 800 ScreenResolver.py
+2016-05-21 11:28:56,888 DEBUG Using pre-defined settings ScreenResolver.py
+2016-05-21 11:28:58,076 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 11:28:59,279 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 11:28:59,279 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 11:28:59,279 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 11:28:59,279 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 11:28:59,295 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 11:29:09,005 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 11:29:09,505 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:29:10,005 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 11:29:10,444 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 11:29:12,319 DEBUG Submitting price to bid server BidStrategy.py
+2016-05-21 11:29:12,335 DEBUG Click on ok button ScreenResolver.py
+2016-05-21 11:29:12,335 DEBUG Click at position (740, 556) ScreenResolver.py
+2016-05-21 11:29:12,335 DEBUG Click on error button ScreenResolver.py
+2016-05-21 11:29:12,335 DEBUG Click at position (834, 546) ScreenResolver.py
+2016-05-21 11:29:12,335 DEBUG Click on ok_after_bid button ScreenResolver.py
+2016-05-21 11:29:12,335 DEBUG Click at position (828, 539) ScreenResolver.py
+2016-05-21 12:24:04,073 INFO ========Using customized px strategy ======== BidStrategy.py
+2016-05-21 12:24:05,369 DEBUG Cick on customerized price button ScreenResolver.py
+2016-05-21 12:24:05,369 DEBUG Click at position (976, 379) ScreenResolver.py
+2016-05-21 12:24:05,369 DEBUG Click on bid button ScreenResolver.py
+2016-05-21 12:24:05,369 DEBUG Click at position (983, 487) ScreenResolver.py
+2016-05-21 12:24:05,369 DEBUG Waiting for verification code input BidStrategy.py
+2016-05-21 12:24:05,855 DEBUG Copy and paste to verification code field ScreenResolver.py
+2016-05-21 12:24:06,355 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 12:24:06,855 DEBUG Click at position (828, 464) ScreenResolver.py
+2016-05-21 12:24:06,855 DEBUG Waiting for enter to submit price BidStrategy.py
+2016-05-21 12:24:06,869 DEBUG Submitting price to bid server BidStrategy.py
+2016-05-21 12:24:06,869 DEBUG Click on ok button ScreenResolver.py
+2016-05-21 12:24:06,869 DEBUG Click at position (740, 556) ScreenResolver.py
+2016-05-21 12:24:06,869 DEBUG Click on error button ScreenResolver.py
+2016-05-21 12:24:06,869 DEBUG Click at position (834, 546) ScreenResolver.py
+2016-05-21 12:24:06,869 DEBUG Click on ok_after_bid button ScreenResolver.py
+2016-05-21 12:24:06,869 DEBUG Click at position (828, 539) ScreenResolver.py
